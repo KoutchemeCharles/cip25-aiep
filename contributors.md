@@ -14,7 +14,7 @@ Below is the list of contributors who chose to be acknowledged:
 - [Irum Ghafoor](https://www.linkedin.com/in/irum-ghafoor-12043393?utm_source=share&utm_caampaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Fiona Q. Nguyen](https://www.linkedin.com/in/fqn)
 - [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330)
-- [Is the Pope a Catholic? Yes 😁](https://codeng.eu/)
+- [Derval Anne O'Neill](https://www.linkedin.com/in/derval/)
 - Tejaswi K
 - [Justina Odoeze](https://github.com/Elocodes)
 - Lia Schkolnik
