@@ -33,7 +33,7 @@ Below is the list of contributors who chose to be acknowledged:
 - [Bryan Caraman](https://www.linkedin.com/in/bryancaraman)
 - [Kathleen Kershaw](https://www.linkedin.com/in/kathleenkershaw/)
 - [Amina](https://www.linkedin.com/in/amina-work/)
-- [As "Fahad Rasheed - NED'26". If not possible like this, then just "Fahad Rasheed"](https://www.linkedin.com/in/fahad-rasheed-57202b1b8/)
+- [Fahad Rasheed](https://www.linkedin.com/in/fahad-rasheed-57202b1b8/)
 - [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami)
 - [Dan Manengo Mayonde](https://www.linkedin.com/in/dan-mayonde-b10492268)
 - Adem Coskun
@@ -41,17 +41,15 @@ Below is the list of contributors who chose to be acknowledged:
 - [Syed Affan Daimi](https://sulphatet.github.io/)
 - [Binh Le](https://www.linkedin.com/in/binhlee/)
 - [Izza Fatima](https://www.linkedin.com/in/izza-fatima-5586ba221/)
-- [Yes](https://lifelongedge.com)
+- [Life long edge](https://lifelongedge.com)
 - [Brendon Wu](https://www.linkedin.com/in/brendonewu/)
 - [Hao Phan](https://www.linkedin.com/in/haodydoody/)
 - [Abdishakur Yusuf](https://www.linkedin.com/in/abdishakur-yusuf-421a862b5)
-- ["Engr. Hamza Ali - NED'26" if not possible then simple "Hamza Ali"](https://github.com/Hamzaali146)
+- ["Hamza Ali"](https://github.com/Hamzaali146)
 - [Muhammad Zubair Zafar](https://linkedin.com/in/zubair480)
 - Rick Avra
 - [Furqan Ali](http://linkedin.com/in/furqan-ali000)
-- [Furqan Ali](http://linkedin.com/in/furqan-ali000)
 - Sidra Naru
-- Yes ,I would like to appear my name on page.
 - [Natalia Villegas Calderon](https://www.linkedin.com/in/nataliavc09)
 - [Prerana Rane](http://linkedin.com/in/preranarane)
 - Francis Hsu
