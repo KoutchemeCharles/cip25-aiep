@@ -3,11 +3,6 @@ layout: default
 title: "Contributors"
 permalink: /contributors
 ---
----
-layout: default
-title: "Contributors"
-permalink: /contributors
----
 
 # Contributors
 
@@ -95,5 +90,3 @@ Below is the list of contributors who chose to be acknowledged:
 - [Marufat T. Abiola](https://linkedin.com/in/marufat-abiola)
 
 ---
-
-_If you filled the form but don’t see your name here, please contact us so we can update this page._
