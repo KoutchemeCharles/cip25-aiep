@@ -9,83 +9,82 @@ permalink: /contributors
 We thank all the teaching assistants and section leaders who made the project possible.  
 Below is the list of contributors who chose to be acknowledged:
 
-- [Michael Naeim Shehata](https://www.linkedin.com/in/michaelshehata/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Marc Deo Jeremiah V. Rupin](https://www.linkedin.com/in/marcdeorupin) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Irum Ghafoor](https://www.linkedin.com/in/irum-ghafoor-12043393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Fiona Q. Nguyen](https://www.linkedin.com/in/fqn) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Is the Pope a Catholic? Yes 😁](https://codeng.eu/) <i class="fa fa-user"></i>
+- [Michael Naeim Shehata](https://www.linkedin.com/in/michaelshehata/)
+- [Marc Deo Jeremiah V. Rupin](https://www.linkedin.com/in/marcdeorupin)
+- [Irum Ghafoor](https://www.linkedin.com/in/irum-ghafoor-12043393?utm_source=share&utm_caampaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Fiona Q. Nguyen](https://www.linkedin.com/in/fqn)
+- [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330)
+- [Is the Pope a Catholic? Yes 😁](https://codeng.eu/)
 - Tejaswi K
-- [Justina Odoeze](https://github.com/Elocodes) <i class="fa fa-github"></i>
+- [Justina Odoeze](https://github.com/Elocodes)
 - Lia Schkolnik
-- [Sana Ashfaq](https://www.linkedin.com/in/sana-ashfaq) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Leoson Hoay](https://www.linkedin.com/in/leoson-hoay/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Abiola Omolaja](https://linkedin.com/in/abiola-omolaja) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Sana Ashfaq](https://www.linkedin.com/in/sana-ashfaq)
+- [Leoson Hoay](https://www.linkedin.com/in/leoson-hoay/)
+- [Abiola Omolaja](https://linkedin.com/in/abiola-omolaja)
 - Anupam Banerjee
 - Stephanie Rideout
-- [Samina Chowdhury](https://www.linkedin.com/in/samina-chowdhury-57355023a/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Yes, Carmen Cheng](http://linkedin.com/in/carmencheng) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Muhammad H. Khurram](https://muhammadkhurram.tech/) <i class="fa fa-user"></i>
-- [Samia Haque Tisha](https://www.linkedin.com/in/samiahaquetisha/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Aditi Ranjan](https://www.linkedin.com/in/aditi-ranjan-9444572b8/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Tejas Bhalla](https://www.linkedin.com/in/tejas-bhalla-032692124) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Samina Chowdhury](https://www.linkedin.com/in/samina-chowdhury-57355023a/)
+- [Yes, Carmen Cheng](http://linkedin.com/in/carmencheng)
+- [Muhammad H. Khurram](https://muhammadkhurram.tech/)
+- [Samia Haque Tisha](https://www.linkedin.com/in/samiahaquetisha/)
+- [Aditi Ranjan](https://www.linkedin.com/in/aditi-ranjan-9444572b8/)
+- [Tejas Bhalla](https://www.linkedin.com/in/tejas-bhalla-032692124)
 - Saakshi Shamanth Donthi
-- [Bryan Caraman](https://www.linkedin.com/in/bryancaraman) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Kathleen Kershaw](https://www.linkedin.com/in/kathleenkershaw/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Amina](https://www.linkedin.com/in/amina-work/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [As "Fahad Rasheed - NED'26". If not possible like this, then just "Fahad Rasheed"](https://www.linkedin.com/in/fahad-rasheed-57202b1b8/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Dan Manengo Mayonde](https://www.linkedin.com/in/dan-mayonde-b10492268) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Bryan Caraman](https://www.linkedin.com/in/bryancaraman)
+- [Kathleen Kershaw](https://www.linkedin.com/in/kathleenkershaw/)
+- [Amina](https://www.linkedin.com/in/amina-work/)
+- [As "Fahad Rasheed - NED'26". If not possible like this, then just "Fahad Rasheed"](https://www.linkedin.com/in/fahad-rasheed-57202b1b8/)
+- [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami)
+- [Dan Manengo Mayonde](https://www.linkedin.com/in/dan-mayonde-b10492268)
 - Adem Coskun
-- [Shubhika Pradeep](https://www.linkedin.com/in/shubhika-pradeep/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Syed Affan Daimi](https://sulphatet.github.io/) <i class="fa fa-github"></i>
-- [Binh Le](https://www.linkedin.com/in/binhlee/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Izza Fatima](https://www.linkedin.com/in/izza-fatima-5586ba221/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Yes](https://lifelongedge.com) <i class="fa fa-user"></i>
-- [Brendon Wu](https://www.linkedin.com/in/brendonewu/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Hao Phan](https://www.linkedin.com/in/haodydoody/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Abdishakur Yusuf](https://www.linkedin.com/in/abdishakur-yusuf-421a862b5) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- ["Engr. Hamza Ali - NED'26" if not possible then simple "Hamza Ali"](https://github.com/Hamzaali146) <i class="fa fa-github"></i>
-- [Muhammad Zubair Zafar](https://linkedin.com/in/zubair480) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Shubhika Pradeep](https://www.linkedin.com/in/shubhika-pradeep/)
+- [Syed Affan Daimi](https://sulphatet.github.io/)
+- [Binh Le](https://www.linkedin.com/in/binhlee/)
+- [Izza Fatima](https://www.linkedin.com/in/izza-fatima-5586ba221/)
+- [Yes](https://lifelongedge.com)
+- [Brendon Wu](https://www.linkedin.com/in/brendonewu/)
+- [Hao Phan](https://www.linkedin.com/in/haodydoody/)
+- [Abdishakur Yusuf](https://www.linkedin.com/in/abdishakur-yusuf-421a862b5)
+- ["Engr. Hamza Ali - NED'26" if not possible then simple "Hamza Ali"](https://github.com/Hamzaali146)
+- [Muhammad Zubair Zafar](https://linkedin.com/in/zubair480)
 - Rick Avra
-- [Furqan Ali](http://linkedin.com/in/furqan-ali000) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Furqan Ali](http://linkedin.com/in/furqan-ali000) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Furqan Ali](http://linkedin.com/in/furqan-ali000)
+- [Furqan Ali](http://linkedin.com/in/furqan-ali000)
 - Sidra Naru
 - Yes ,I would like to appear my name on page.
-- [Natalia Villegas Calderon](https://www.linkedin.com/in/nataliavc09) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Prerana Rane](http://linkedin.com/in/preranarane) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Natalia Villegas Calderon](https://www.linkedin.com/in/nataliavc09)
+- [Prerana Rane](http://linkedin.com/in/preranarane)
 - Francis Hsu
-- [Pranav Purankar](https://www.linkedin.com/in/pranavpurankar/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Adriana Jasiel Campos Romero](https://www.linkedin.com/in/jasiel-campos-romero/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Ege Ayav](https://www.linkedin.com/in/ege-ayav-32079534b/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Ammar Alam](https://www.linkedin.com/in/ammaralam/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Nikhil Arora](https://www.linkedin.com/in/nikhila01) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Prasad Sawant](https://www.linkedin.com/in/prasadsawant97/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Pranav Purankar](https://www.linkedin.com/in/pranavpurankar/)
+- [Adriana Jasiel Campos Romero](https://www.linkedin.com/in/jasiel-campos-romero/)
+- [Ege Ayav](https://www.linkedin.com/in/ege-ayav-32079534b/)
+- [Ammar Alam](https://www.linkedin.com/in/ammaralam/)
+- [Nikhil Arora](https://www.linkedin.com/in/nikhila01)
+- [Prasad Sawant](https://www.linkedin.com/in/prasadsawant97/)
 - Sai Harshith Nallanagula
-- [Inam ul Rehman](https://www.linkedin.com/in/inamulrehman) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Inam ul Rehman](https://www.linkedin.com/in/inamulrehman)
 - Sadaf Nasreen
-- [Mihail Gavrilita](https://www.linkedin.com/in/mihail-gavrilita/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Sezai Kantarci](https://www.kantarcise.com/) <i class="fa fa-user"></i>
-- [Nadeen Omar](https://www.linkedin.com/in/nadeenomar/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Gia Bao Vu](https://www.linkedin.com/in/gia-b%E1%BA%A3o-v%C5%A9-407bb3307/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Evi Giannakou](https://www.linkedin.com/in/evi-giannakou) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Anshid Aboobacker](https://www.linkedin.com/in/anshidaboobacker/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Mihail Gavrilita](https://www.linkedin.com/in/mihail-gavrilita/)
+- [Sezai Kantarci](https://www.kantarcise.com/)
+- [Nadeen Omar](https://www.linkedin.com/in/nadeenomar/)
+- [Gia Bao Vu](https://www.linkedin.com/in/gia-b%E1%BA%A3o-v%C5%A9-407bb3307/)
+- [Evi Giannakou](https://www.linkedin.com/in/evi-giannakou)
+- [Anshid Aboobacker](https://www.linkedin.com/in/anshidaboobacker/)
 - Mary Samir Zaky
-- [Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-69b278210) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Gourav Sharma](https://github.com/gouravsharma-00) <i class="fa fa-github"></i>
-- [Parshu Anantharam](https://www.linkedin.com/in/parshuanantharam/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Elaine Alcoreza](https://www.linkedin.com/in/elaine-alcoreza-73907041) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Muhammad Arslan](https://www.linkedin.com/in/muhammad-arslan-69b278210)
+- [Gourav Sharma](https://github.com/gouravsharma-00)
+- [Parshu Anantharam](https://www.linkedin.com/in/parshuanantharam/)
+- [Elaine Alcoreza](https://www.linkedin.com/in/elaine-alcoreza-73907041)
 - Lawrence Lee
-- [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Dr. Saksham Khandelwal](https://in.linkedin.com/in/sakshamkhandelwal) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
+- [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami)
+- [Dr. Saksham Khandelwal](https://in.linkedin.com/in/sakshamkhandelwal)
 - Michael Ayiam
-- [Stefan Broecker](https://www.stefanbroecker.com/) <i class="fa fa-user"></i>
-- [Sandeep Patil](https://www.linkedin.com/in/sandeepspatil/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Taha Tasleem](https://www.linkedin.com/in/tahatasleem) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Connie Chan](https://www.linkedin.com/in/conniechan1/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Tanya Churaman](https://www.linkedin.com/in/tanya-churaman) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Ana Carolina Pereira](https://www.linkedin.com/in/ana-carolina-pereira-restrepo-a1930558/) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- [Leoson Hoay](https://www.linkedin.com/in/leoson-hoay) <i class="fa fa-linkedin" style="color:#0e76a8;"></i>
-- Tejaswi K
+- [Stefan Broecker](https://www.stefanbroecker.com/)
+- [Sandeep Patil](https://www.linkedin.com/in/sandeepspatil/)
+- [Taha Tasleem](https://www.linkedin.com/in/tahatasleem)
+- [Connie Chan](https://www.linkedin.com/in/conniechan1/)
+- [Tanya Churaman](https://www.linkedin.com/in/tanya-churaman)
+- [Ana Carolina Pereira](https://www.linkedin.com/in/ana-carolina-pereira-restrepo-a1930558/)
+- [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330)
+- [Leoson Hoay](https://www.linkedin.com/in/leoson-hoay)
 - Sai Harshith Nallanagula
