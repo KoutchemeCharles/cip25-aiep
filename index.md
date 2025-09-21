@@ -55,8 +55,7 @@ It demonstrates that small, open-source models can provide **timely, constructiv
 
 ## Contributors
 
-We thank all the **teaching assistants** who evaluated feedback quality and the many **section leaders** who made Code In Place possible.  
-The list of full contributors can be found on the [contributors page](https://koutche.me/cip25-aiep/contributors)
+We thank all the **teaching assistants** who evaluated feedback quality.  The list of full contributors can be found on the [contributors page](https://koutche.me/cip25-aiep/contributors). Special thanks also to the [Code In Place team](https://codeinplace.stanford.edu/team) for supporting the authors during the development of this project. 
 
 **Authors**:  
 - [Charles Koutcheme](https://koutche.me/) (Aalto University)  
