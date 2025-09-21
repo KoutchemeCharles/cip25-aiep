@@ -28,8 +28,7 @@ _To appear in the proceedings of [SIGCSE TS 2026](https://sigcse2026.sigcse.org/
 
 [Code In Place](https://codeinplace.stanford.edu/) is a Massive Open Online Course (MOOC) that teaches thousands of learners worldwide the fundamentals of Python programming.  
 
-In this project, we trained **3B-parameter small language models (SLMs)** to provide **diagnostic feedback** on students’ final programming exercises.  
-The models were guided by **rubric-based prompting**, supervised fine-tuning, and preference-based optimization.
+In this project, we trained **3B-parameter small language models (SLMs)** to provide **diagnostic feedback** on students’ submissions to exam-like programming exxercises.  The models were guided by **rubric-based prompting**, supervised fine-tuning, and preference-based optimization.
 
 ---
 
