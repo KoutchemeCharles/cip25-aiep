@@ -2,9 +2,6 @@
 layout: default
 ---
 
-
-# Aligning Small Language Models for Programming Feedback
-
 Welcome to the project repository for the **Code In Place AI Evaluation Project (CIP-AIEP)**.  
 This project led to the paper:
 
