@@ -14,8 +14,8 @@ Towards Scalable Coding Support in a Massive Global Course**
 _To appear in the proceedings of [SIGCSE TS 2026](https://sigcse2026.sigcse.org/), St. Louis, Missouri._
 
 <div style="margin-top:1em; display:flex; gap:1em; flex-wrap:wrap;">
-  <a href="../files/SIGCSE__CIP_diagnostic_feedback.pdf">
-    <img src="https://koutche.me/files/sigcse26_rubric_feedback.pdf" alt="Paper PDF">
+  <a href="https://koutche.me/files/sigcse26_rubric_feedback.pdf">
+    <img src="https://img.shields.io/badge/Paper-PDF-red" alt="Paper PDF">
   </a>
   <a href="https://github.com/KoutchemeCharles/cip25-aiep">
     <img src="https://img.shields.io/badge/Code-GitHub-blue" alt="GitHub Code">
@@ -58,8 +58,9 @@ It demonstrates that small, open-source models can provide **timely, constructiv
 ## Contributors
 
 We thank the **53teaching assistants** who evaluated feedback quality and the many **section leaders** who made Code In Place possible.  
+The list of full contributors can be found on the [contributors page](https://codeinplace.stanford.edu/) 
 
 **Authors**:  
 - [Charles Koutcheme](https://koutche.me/) (Aalto University)  
 - [Juliette Woodrow](https://juliettewoodrow.github.io/) (Stanford University)  
-- [Chris Piech](https://cs.stanford.edu/~cpiech/) (Stanford University)  
+- [Chris Piech](https://stanford.edu/~cpiech/bio/index.html) (Stanford University)  
