@@ -40,10 +40,9 @@ In this project, we trained **3B-parameter small language models (SLMs)** to pro
 - ✅ Supports hybrid strategies: SLMs for scalable local deployment, LLMs for more detailed diagnostic feedback.
 
 <div align="center" style="margin:1.5em 0;">
-  <embed src="ta_feedback_overlay_criteria_by_exercise.pdf" width="800px" height="2100px" />
+  <img src="ta_feedback_overlay_criteria_by_exercise.png" alt="Feedback results comparison" width="500">
   <p><em>Trained 3B SLMs approach GPT-4.1 on correctness and helpfulness, while being locally deployable.</em></p>
 </div>
-
 
 ---
 
