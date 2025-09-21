@@ -19,7 +19,7 @@ Below is the list of contributors who chose to be acknowledged:
 - [Irum Ghafoor](https://www.linkedin.com/in/irum-ghafoor-12043393?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Fiona Q. Nguyen](https://www.linkedin.com/in/fqn)
 - [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330)
-- [Is the Pope a Catholic? Yes 😁](https://codeng.eu/ and https://www.linkedin.com/in/derval/)
+- [Derval Anne O'Neill](https://www.linkedin.com/in/derval/)
 - Tejaswi K
 - [Justina Odoeze](https://github.com/Elocodes)
 - [Lia Schkolnik](https://linkedin.com/in/lia-schkolnik)
@@ -30,7 +30,7 @@ Below is the list of contributors who chose to be acknowledged:
 - Stephanie Rideout
 - [Samina Chowdhury](https://www.linkedin.com/in/samina-chowdhury-57355023a/)
 - [Yes, Carmen Cheng](http://linkedin.com/in/carmencheng)
-- [Muhammad H. Khurram](https://Portfolio: https://muhammadkhurram.tech/    LinkedIn: https://www.linkedin.com/in/m-khurram/   GitHub: https://github.com/MuhammadHunainKhurram)
+- [Muhammad H. Khurram](https://muhammadkhurram.tech/)
 - [Samia Haque Tisha](https://www.linkedin.com/in/samiahaquetisha/)
 - [Aditi Ranjan](https://www.linkedin.com/in/aditi-ranjan-9444572b8/)
 - [Tejas Bhalla](https://www.linkedin.com/in/tejas-bhalla-032692124)
@@ -42,7 +42,7 @@ Below is the list of contributors who chose to be acknowledged:
 - [Shobana Arumugamangalam Iyyasami](https://www.linkedin.com/in/shobana-iyyasami)
 - [Dan Manengo Mayonde](https://www.linkedin.com/in/dan-mayonde-b10492268)
 - Adem Coskun
-- [Shubhika Pradeep](https://www.linkedin.com/in/shubhika-pradeep/   https://github.com/shubhipradeep)
+- [Shubhika Pradeep](https://www.linkedin.com/in/shubhika-pradeep/)
 - [Tanvi Parekh](https://www.linkedin.com/in/tanviparekh28)
 - [Yash Dahal](https://linkedin.com/in/yashdahal)
 - [Elizabeth A. Essuman](https://linkedin.com/in/elizabeth-essuman)
