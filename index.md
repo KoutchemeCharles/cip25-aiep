@@ -34,10 +34,9 @@ In this project, we trained **3B-parameter small language models (SLMs)** to pro
 
 ## Highlights
 
-- ✅ Deployed in **Code In Place 2025**, reaching **5,452 students** across the globe.  
+- ✅ Deployed in **Code In Place 2025**, a course reaching **5,452 students** across the globe.  
 - ✅ Feedback quality judged by **over 50 teaching assistants** and **LLM-as-a-judge analysis**.  
-- ✅ Trained SLMs closed the gap to GPT-4.1 from **80% → 10%** on correctness and helpfulness.  
-- ✅ Models **reduced hallucinations**, provided constructive tone, and were often rated helpful.  
+- ✅ The trained SLM closed the gap to GPT-4.1 from **80% → 10%** on correctness and helpfulness.  
 - ✅ Supports hybrid strategies: SLMs for scalable local deployment, LLMs for more detailed diagnostic feedback.
 
 <div align="center" style="margin:1.5em 0;">
@@ -56,8 +55,8 @@ It demonstrates that small, open-source models can provide **timely, constructiv
 
 ## Contributors
 
-We thank the **53teaching assistants** who evaluated feedback quality and the many **section leaders** who made Code In Place possible.  
-The list of full contributors can be found on the [contributors page](https://codeinplace.stanford.edu/) 
+We thank all the **teaching assistants** who evaluated feedback quality and the many **section leaders** who made Code In Place possible.  
+The list of full contributors can be found on the [contributors page](https://koutche.me/cip25-aiep/contributors)
 
 **Authors**:  
 - [Charles Koutcheme](https://koutche.me/) (Aalto University)  
