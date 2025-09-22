@@ -1,0 +1,9 @@
+name: cip5_diag4
+student_data_path: ""
+rubrics_data_path: ""
+subset:
+  - "diagnostic2"
+drop_duplicates: false 
+iloc:
+  start: 0
+  end: 1000

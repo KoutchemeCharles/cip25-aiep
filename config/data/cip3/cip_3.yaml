@@ -1,0 +1,8 @@
+name: cip3
+student_data_path: ""
+rubrics_data_path: ""
+exclude_karel: true
+drop_duplicates: false
+zipf_sampling:
+  total: 100
+  head: 20

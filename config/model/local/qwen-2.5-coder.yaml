@@ -1,0 +1,4 @@
+---
+source: local
+name: "Qwen/Qwen2.5-Coder-3B-Instruct" 
+dtype: 'fp16'

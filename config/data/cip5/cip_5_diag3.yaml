@@ -1,0 +1,6 @@
+name: cip5_diag3
+student_data_path: ""
+rubrics_data_path: ""
+subset:
+  - "diagnostic3"
+drop_duplicates: false 

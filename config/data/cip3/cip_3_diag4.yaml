@@ -1,0 +1,10 @@
+name: cip3_diag4
+student_data_path: ""
+rubrics_data_path: ""
+subset:
+  - "diagnostic4"
+exclude_karel: true
+drop_duplicates: false
+zipf_sampling:
+  total: 100
+  head: 20
