@@ -83,11 +83,14 @@ I'll look into it and add you.
 
 # Agenda
 
-1. Motivation & Context  
-2. Rubric-based Feedback  
-3. Training Small Language Models  
-4. Evaluation & Results  
-5. Impact and Next Steps
+1. From Rubrics to ProTransformers  
+2. Large vs Small Language Models  
+3. Rubric-Based Feedback with LLMs  
+4. Training Pipeline (SFT + Preference Optimization)  
+5. Evaluation Setup  
+6. Results (TA & LLM-as-judge)  
+7. Impact and Next Steps
+
 
 ???
 
@@ -231,9 +234,14 @@ whether small open models, trained with rubrics, can approach the feedback quali
 
 
 ---
-# Research Question 
+class: center, middle
 
-Can we train small language models to provide high-quality rubric-based feedback for programming exercises, approaching the performance of large language models like GPT-4.1?
+# Research Question ❓
+
+<br><br>
+
+**Can we train small language models to provide high-quality, rubric-based feedback for programming exercises — and approach the performance of large language models like GPT-4.1?**
+
 ---
 
 # Rubric-Based Feedback with LLMs
@@ -386,9 +394,12 @@ we used the teacher’s outputs as the “preferred” ones.
   <img src="images/llm_as_a_judge.png" width="70%">
 </div>
 
-- Base SLM accuracy <20%  
+- Base SLM accuracy < 20%  
+
 - After training: **accuracy 77%, selectivity 96%**  
+
 - Rarely hallucinates errors  
+
 - Often highlights at least one key issue
 
 ---
@@ -396,24 +407,23 @@ we used the teacher’s outputs as the “preferred” ones.
 # Impact
 
 - First time a trained **3B SLM** provided diagnostic feedback at this scale  
+
 - Shows tradeoffs:  
+
   - **SLMs**: scalable, private, deployable locally  
-  - **LLMs**: still needed for the most comprehensive feedback  
+
+  - **LLMs**: still needed for the harder cases to provide the most comprehensive feedback  
+
 - Hybrid workflows are the way forward
 
 ---
+class: center, middle
 
-## Q&A Time
+## Q&A and DiscussionTime
 
 
 
 ???
-
-
-
-
----
-
 
 class: center, middle
 
