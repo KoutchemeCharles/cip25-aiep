@@ -24,7 +24,7 @@ Below is the list of contributors who chose to be acknowledged:
 - Anupam Banerjee
 - Stephanie Rideout
 - [Samina Chowdhury](https://www.linkedin.com/in/samina-chowdhury-57355023a/)
-- [Yes, Carmen Cheng](http://linkedin.com/in/carmencheng)
+- [Carmen Cheng](http://linkedin.com/in/carmencheng)
 - [Muhammad H. Khurram](https://muhammadkhurram.tech/)
 - [Samia Haque Tisha](https://www.linkedin.com/in/samiahaquetisha/)
 - [Aditi Ranjan](https://www.linkedin.com/in/aditi-ranjan-9444572b8/)
@@ -45,7 +45,7 @@ Below is the list of contributors who chose to be acknowledged:
 - [Brendon Wu](https://www.linkedin.com/in/brendonewu/)
 - [Hao Phan](https://www.linkedin.com/in/haodydoody/)
 - [Abdishakur Yusuf](https://www.linkedin.com/in/abdishakur-yusuf-421a862b5)
-- ["Hamza Ali"](https://github.com/Hamzaali146)
+- [Hamza Ali](https://github.com/Hamzaali146)
 - [Muhammad Zubair Zafar](https://linkedin.com/in/zubair480)
 - Rick Avra
 - [Furqan Ali](http://linkedin.com/in/furqan-ali000)
