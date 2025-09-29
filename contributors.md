@@ -86,3 +86,4 @@ Below is the list of contributors who chose to be acknowledged:
 - [Raya Faezinia](https://www.linkedin.com/in/raya-faezinia-a99b13330)
 - [Leoson Hoay](https://www.linkedin.com/in/leoson-hoay)
 - Sai Harshith Nallanagula
+- [Samina Jan](https://www.linkedin.com/in/samina-jan-963641172)
